@@ -6,3 +6,5 @@ Colabノートブックの利用を前提とします。
 
 ## referrence
 https://zenn.dev/mattyamonaca/articles/23cc474bc879e6
+<br>
+https://huggingface.co/msy78
